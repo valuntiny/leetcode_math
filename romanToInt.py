@@ -28,3 +28,4 @@ class Solution:
                 res += index[s[i]]
 
         return res + index[s[-1]]
+
